@@ -94,16 +94,4 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    cd agritech
    ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Set up environment variables:
-   - Create a `.env` file in the root directory.
-   - Add the necessary environment variables (API keys, database URI, etc.).
-
-5. Start the application:
-   ```bash
-   npm start
-   ```
 
